@@ -7,7 +7,7 @@ Annotator is a free tool for selecting image fragments for computer vision. The 
 
 <img src="screen1.png" alt= "" width="700" height="500">
 
-Rust dependencies (for specific versions, check `Cargo.toml'):
+Rust dependencies (for specific versions, check *Cargo.toml*):
 
 * `csv` 
 * `fltk`
